@@ -5,7 +5,7 @@ How to use the script:
 3) Plug USB flash drive into TRI. 
 4) Open a terminal and become root (sudo su)
 5) Navigate to the USB device (cd /run/media/geeds/USBDEVICENAME)
-6) Run the script and choose conversion options (sh tri_switcher.sh)
+6) Run the script and choose conversion options (sh tri_bvs_switcher.sh)
 
 
 How to replay bag images:
